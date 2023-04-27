@@ -1,9 +1,5 @@
-public class Forest{
+public class Forest extends {
     
-    public void description(){
-
-    }
-
     public String villager1(String response){
 
         return response;
