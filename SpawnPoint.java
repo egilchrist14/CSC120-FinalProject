@@ -1,4 +1,4 @@
-public class SpawnPoint{
+public class SpawnPoint extends Location{
     
     /*
      * Eta welcomes the new Player and introduces them to the game.
@@ -8,10 +8,4 @@ public class SpawnPoint{
 
     }
 
-    /*
-     * A description of the surrounding area.
-     */
-    public void description(){
-
-    }
 }
